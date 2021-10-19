@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile! 👋
 
-- 🔭 Back-end development with Node.JS
+- 🔭 Working as a Software Engineering Intern @ Dashlane
 - 🌱 I’m currently learning C at 42 Lisbon.
 
 <div>
