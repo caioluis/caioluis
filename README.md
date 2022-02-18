@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile! 👋
 
-- 🔭 Working as a Software Engineering Intern @ Dashlane
+- 🔭 Working as a Junior Software Engineer @ Dashlane
 - 🌱 I’m currently learning C at 42 Lisbon.
 
 <div>
