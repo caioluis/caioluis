@@ -1,7 +1,7 @@
 ### Welcome to my GitHub Profile! 👋
 
-- 🔭 Working as a Junior Software Engineer @ Dashlane
-- 🌱 I’m currently learning C at 42 Lisbon.
+- 🔭 Working as a Junior Front-end Engineer @ Qonto
+- 🌱 I’m currently learning Ember.js
 
 <div>
   <a href="https://github.com/caioluis">
