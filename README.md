@@ -1,7 +1,7 @@
 ### Welcome to my GitHub Profile! 👋
 
 - 🔭 Working as a Junior Software Engineer @ Dashlane
-- 🌱 I’m currently learning advanced JS concepts
+- 🌱 I’m currently learning advanced JS concepts and Solidity
 
 <div>
   <a href="https://github.com/caioluis">
