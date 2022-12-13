@@ -1,7 +1,7 @@
 ### Welcome to my GitHub Profile! 👋
 
-- 🔭 Working as a Junior Software Engineer @ Dashlane
-- 🌱 I’m currently learning advanced JS concepts and Solidity
+- 🔭 Working as a Junior Software Engineer @ Zefir
+- 🌱 I’m currently learning advanced JS/TS concepts and general Computer Science.
 
 <div>
   <a href="https://github.com/caioluis">
