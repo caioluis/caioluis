@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile! 👋
 
-- 🔭 Working as a Junior Software Engineer @ Zefir
+- 🔭 Working as a Software Engineer
 - 🌱 I’m currently learning advanced JS/TS concepts and general Computer Science.
 
 <div>
