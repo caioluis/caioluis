@@ -6,7 +6,7 @@ As a Software Engineer, I managed to have a really great life in an early age, e
 
 To give you some context, I'm a Brazilian living in Portugal for the last 6 years. Just by living in another country, another continent, I'm already living in a situation that many people dream of. I don't have a university deegre, I haven't even finished one of the disciplines of my high school. I became depressed during COVID and I haven't got out of it just yet. So... I wasn't expecting to be successful at all.
 
-But things changhed. I got a lucky internship, got promoted, changed jobs and, ofr once, my gross salary was just as high as the country's Prime Minister. That's insane. Statiscally, I'm a gigantic exception.
+But things changhed. I got a lucky internship, got promoted, changed jobs and, for once, my gross salary was just as high as the country's Prime Minister. That's insane. Statiscally, I'm a gigantic exception.
 
 And then my depression hit again. I resigned from my job. Thrice. Trying to find happiness somewhere else instead of trying to find inside of me.
 
@@ -17,6 +17,8 @@ Meanwhile, people starve in the streets. People die in the winter, because they 
 Thousands of houses are empty in Portugal. We have plenty of food to feed the entire world. We have capacity to treat diseases. But we won't.
 
 It's difficult to explain in a simple readme at GitHub, but I know for sure this is for capitalism to blame. I'm happy to explain further if you'd like to contact me.
+
+For those who are wondering: don't worry, if we ever work together in a startup, I won't "sabotage the business" and I won't be "lazy"; in fact, I tend to overwork a lot, because I want my peers to succeed. Don't let the prejudice over communism get over your head, I'm a human just like you.
 
 I'm just setting an agreement with the society: I will fight with the means I have for this to end. I'm commited to bring education for free and as acessible as possible to as many people as I can. I will study all the theory that I lack, I will study pedagogy, and I am going to spread this knowledge through my community and through the whole world.
 
